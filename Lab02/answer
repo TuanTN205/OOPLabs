@@ -1,1 +1,3 @@
-
+Answers:
+-When you want a method to provide an object without worrying about potential changes to the object's implementation.
+-No, it will cause an error because both methods have identical parameter lists: a single string argument.
